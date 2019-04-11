@@ -20,6 +20,7 @@
 
 .branding {
   font-weight: 600;
+  font-size: 26px;
   flex: 1;
 
   @nest & a {
